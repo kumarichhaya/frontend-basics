@@ -1,0 +1,40 @@
+HTML Learning Series – Structured Outline
+🟢 Basic Concepts (1–10)
+1. How Websites Work?
+2. Understanding the Building Blocks of a Website
+3. What is HTML?
+4. A Dive into the History of HTML
+5. Mastering HTML Syntax
+6. Downloading Your Code Editor
+
+Pro Tips for HTML (Part 1 & 2)
+7. Navigating HTML Documents & Their Structure
+8. Getting to Know the HTML Language
+9. Unveiling HTML Attributes
+
+🟡 Practical HTML Topics (11–35)
+10. Writing HTML Documents in Hindi
+11. Creating Our First HTML Code
+12. Exploring HTML Headings
+13. Understanding HTML Paragraphs
+14. Working with HR and BR Tags in HTML
+15. Mastering HTML Comments: Adding Remarks to Your Code
+16. Text Formatting in HTML: Adding Style to Your Text
+17. Creating Seamless Links and Anchors
+18. Enhancing Content with Images in HTML
+19.Leveraging HTML Map & Area Elements for Maps
+20. Exploring Void Elements in HTML
+21. Optimizing Images with HTML Picture Tag
+22. Enhancing Images with HTML Figure Tag
+23.Organizing Information with Lists in HTML
+24. Effective Data Presentation with HTML Tables
+25. Embedding Content Like a Pro with HTML IFRAMES
+26. Adding Audio to Web Pages with HTML Audio TAG
+27. Mastering Video Embedding with HTML Video TAG
+28. Creating Interactive Forms with Forms and Input Elements
+29. Enhancing Website Structure with HTML Semantic Elements
+30. Boosting SEO with HTML Meta Tags
+31. Unveiling the Art of HTML SEO
+32. HTML Final Mega Project
+33. Website Performance Checkup: Understanding Your Site's Ranking
+34. Hosting Your Website Live for Free
